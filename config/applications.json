@@ -2843,7 +2843,7 @@
         "category": "Multimedia Tools",
         "choco": "na",
         "content": "NDI Tools",
-        "description":"NDI, or Network Device Interface, is a video connectivity standard that enables multimedia systems to identify and communicate with one another over IP and to encode, transmit, and receive high-quality, low latency, frame-accurate video and audio, and exchange metadata in real-time.",
+        "description": "NDI, or Network Device Interface, is a video connectivity standard that enables multimedia systems to identify and communicate with one another over IP and to encode, transmit, and receive high-quality, low latency, frame-accurate video and audio, and exchange metadata in real-time.",
         "link": "https://ndi.video/",
         "winget": "NDI.NDITools"
     },
@@ -2851,7 +2851,7 @@
         "category": "Multimedia Tools",
         "choco": "na",
         "content": "Kicad",
-        "description":"Kicad is an open-source EDA tool. It's a good starting point for those who want to do electrical design and is even used by professionals in the industry.",
+        "description": "Kicad is an open-source EDA tool. It's a good starting point for those who want to do electrical design and is even used by professionals in the industry.",
         "link": "https://www.kicad.org/",
         "winget": "KiCad.KiCad"
     },
@@ -2859,7 +2859,7 @@
         "category": "Utilities",
         "choco": "formatfactory",
         "content": "Format Factory",
-        "description":"FormatFactory is an ad-supported freeware multimedia converter that can convert video, audio, and picture files. It is also capable of ripping DVDs and CDs to other file formats, as well as creating .iso images. It can also join multiple video files together into one.",
+        "description": "FormatFactory is an ad-supported freeware multimedia converter that can convert video, audio, and picture files. It is also capable of ripping DVDs and CDs to other file formats, as well as creating .iso images. It can also join multiple video files together into one.",
         "link": "http://www.pcfreetime.com/formatfactory/",
         "winget": "na"
     },
@@ -2867,7 +2867,7 @@
         "category": "Utilities",
         "choco": "na",
         "content": "Dropbox",
-        "description":"The Dropbox desktop app! Save hard drive space, share and edit files and send for signature – all without the distraction of countless browser tabs.",
+        "description": "The Dropbox desktop app! Save hard drive space, share and edit files and send for signature – all without the distraction of countless browser tabs.",
         "link": "https://www.dropbox.com/en_GB/desktop",
         "winget": "Dropbox.Dropbox"
     },
@@ -2875,7 +2875,7 @@
         "category": "Utilities",
         "choco": "ofgb",
         "content": "OFGB (Oh Frick Go Back)",
-        "description":"GUI Tool to remove ads from various places around Windows 11",
+        "description": "GUI Tool to remove ads from various places around Windows 11",
         "link": "https://github.com/xM4ddy/OFGB",
         "winget": "xM4ddy.OFGB"
     },
@@ -2883,7 +2883,7 @@
         "category": "Browsers",
         "choco": "paleMoon",
         "content": "PaleMoon",
-        "description":"Pale Moon is an Open Source, Goanna-based web browser available for Microsoft Windows and Linux (with other operating systems in development), focusing on efficiency and ease of use.",
+        "description": "Pale Moon is an Open Source, Goanna-based web browser available for Microsoft Windows and Linux (with other operating systems in development), focusing on efficiency and ease of use.",
         "link": "https://www.palemoon.org/download.shtml",
         "winget": "MoonchildProductions.PaleMoon"
     },
@@ -2934,5 +2934,13 @@
         "description": "Fork - a fast and friendly git client.",
         "link": "https://git-fork.com/",
         "winget": "Fork.Fork"
+    },
+    "XIVLauncher": {
+        "category": "Games",
+        "choco": "na",
+        "content": "XIVLauncher",
+        "description": "XIVLauncher (abbreviated as XL) is a faster launcher for FFXIV, with various available addons and enhancements to the game!",
+        "link": "https://goatcorp.github.io/",
+        "winget": "goatcorp.XIVLauncher"
     }
 }
